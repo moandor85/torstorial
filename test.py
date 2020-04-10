@@ -1,3 +1,3 @@
-#!/usr/bin/env python 
-print "Hello, Python!" 
-
+#!/usr/bin/env python
+for i in range(1,10):
+    print "Hello, Python!" 
